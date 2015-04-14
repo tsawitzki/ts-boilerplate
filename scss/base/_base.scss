@@ -2,8 +2,6 @@
 
 // structure according to http://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
-// including resets inspired by normalize.css v3.0.3
-
 
 /* BASIC ELEMENTS */
 
@@ -50,7 +48,8 @@ article {
 }
 
 body {
-	
+	background-color: $color-back-02;
+  color: $color-fore-02;
 }
 
 footer {

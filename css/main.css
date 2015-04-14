@@ -1,6 +1,10 @@
 /* BASIC ELEMENTS */
 /* DOCUMENT METADATA */
 /* CONTENT SECTIONING */
+body {
+  background-color: gray;
+  color: #333333; }
+
 /* TEXT CONTENT */
 /* INLINE TEXT SEMANTICS */
 /* IMAGE & MULTIMEDIA */

@@ -1,0 +1,13 @@
+// COLORS
+
+$color-base: #000;
+
+// Foreground colors
+$color-fore-01: #fff;
+$color-fore-02: darken($color-fore-01, 80);
+
+// Background colors
+$color-back-01: $color-base;
+$color-back-02: lighten($color-base, 50);
+
+// Alert colors
