@@ -2,8 +2,14 @@
 @import "settings/colors";
 
 // Base
-@import "base/base";
 @import "base/reset";
+@import "base/base";
+@import "base/embedmedia";
+@import "base/form";
+@import "base/misc";
+@import "base/sectioning";
+@import "base/table";
+@import "base/text";
 
 // Partials
 

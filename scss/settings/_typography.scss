@@ -1,3 +1,30 @@
 // TYPOGRAPHY
 
 $base-fontsize: 1em;
+
+// Serif fonts
+$font-serif-regular: 'Gauthier Next FY W01 Regular';
+
+// Sans-Serif fonts
+$font-sans-regular: 'TypewriterGothicW01-Reg';
+
+// Font-sizes
+$font-size-m: 1.25rem;
+$font-size-l: 1.5rem;
+$font-size-xl: 2.3rem;
+$font-size-xxl: 3rem;
+$font-size-xxxl: 4rem;
+
+// Kerning
+$font-kern-s: -0.1rem;
+$font-kern-m: 0.02rem;
+$font-kern-l: 0.03rem;
+$font-kern-xl: 0.05rem;
+
+// Line-heights
+$font-lineheight-m: 130%;
+$font-lineheight-l: 140%;
+
+// Color references
+$font-color-01: $color-fore-01;
+$font-color-02: $color-fore-02;

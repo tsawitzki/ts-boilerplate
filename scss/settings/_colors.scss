@@ -3,11 +3,12 @@
 $color-base: #000;
 
 // Foreground colors
-$color-fore-01: #fff;
-$color-fore-02: darken($color-fore-01, 80);
+$color-fore-01: #333;
+$color-fore-02: rgba(256,256,244,1);
+$color-fore-03: orange;
 
 // Background colors
-$color-back-01: $color-base;
-$color-back-02: lighten($color-base, 50);
+$color-back-01: rgba(256,256,244,1);
+$color-back-02: darken($color-back-01, 100);
 
 // Alert colors
